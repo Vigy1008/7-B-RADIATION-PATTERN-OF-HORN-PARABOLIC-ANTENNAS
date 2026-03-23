@@ -1,3 +1,6 @@
+## NAME VIGNESHWARAN VINAYAGAMOORTHY
+## REG NO 212223060301
+
 # 7-B-RADIATION-PATTERN-OF-HORN-PARABOLIC-ANTENNAS
 
 **Aim:**
@@ -75,6 +78,10 @@ Beam current	 : 164 mV
 Repeller voltage : 42 V
 
 <img width="540" height="779" alt="image" src="https://github.com/user-attachments/assets/bad5cb6f-5a5d-4e99-9fd3-f54eb207b683" />
+
+
+
+
 
 <img width="569" height="760" alt="image" src="https://github.com/user-attachments/assets/67c4af05-39db-4317-8479-b77bb2188a29" />
 
